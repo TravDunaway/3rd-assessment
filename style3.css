@@ -1,0 +1,21 @@
+#house{
+    width: 30%;
+    height: 30%;
+    
+
+}
+
+#car{
+    width: 30%;
+    height: 30%;
+}
+#description{
+    display: inline-flex;
+    font-size: x-large;
+}
+#short{
+    writing-mode: vertical-rl;
+    text-orientation: mixed;
+    display: inline-flex;
+    font-size: 5px;
+}

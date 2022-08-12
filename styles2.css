@@ -1,0 +1,69 @@
+body {
+    background: #ddd;
+    margin: 1rem;
+    padding: 1rem;
+    max-width: 500px;
+    margin: 2rem auto;
+    font-family: "Open Sans", sans-serif;
+  }
+  #hearabout {
+	color:blue;
+	font-size: 15px
+}
+#interestsare{
+    color: antiquewhite;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+  nav {
+      border-bottom: 10px solid orange;
+  }
+  
+  ol {
+      padding-left: 0;
+  }
+  
+  .crumb {
+      margin-right: 4em;
+      display: inline-flex;
+      flex-direction: row;
+    
+  }
+  
+  a {
+      color: orange;
+  }
+  
+  a:visited {
+      color: crimson;
+  }
+  
+  
+  input {
+      display: block;
+  }
+  
+  img {
+      max-width: 300px;
+  }
+
+  .colorclass{
+    background-color: yellow;
+    color: black;
+    font-size: 20px;
+  }
+
+  .placeclass{
+    background-color: yellow;
+    color: black;
+    font-size: 25px;
+  }
+
+  .ritualclass{
+    background-color: yellow;
+    color: black;
+    font-size: 30px;
+  }
